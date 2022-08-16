@@ -55,6 +55,9 @@ article button {
     border-radius: 10px;
     color: #fff;
     background-color: blue;
+}
+
+.button-link button {
     text-decoration: none;
 }
 
