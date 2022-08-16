@@ -152,7 +152,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
 
 #### Contact Page:
 
-1. Used www.w3schools.com to look up bootstrap forms and found one that I ended up copying the basic code structure and bootstrap from.
+1. Used www.w3schools.com to look up bootstrap forms and found one that I ended up using the basic bootstrap code from.
 2. Edited code to my own liking for the form.
 3. Changed only a small amount of Bootstrap CSS. The bootstrap CSS already added was fully responsive so didn’t need to edit/add much. 
 
