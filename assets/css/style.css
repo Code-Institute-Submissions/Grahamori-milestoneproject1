@@ -40,7 +40,6 @@
 }
 
 #project-article {
-    display: inline-flexbox;
     padding: 20px 20px;
     text-align: center;
 }
@@ -64,7 +63,6 @@ article button {
 /* Certficate section */
 
 #cert-article {
-    display: inline-flexbox;
     padding: 2rem 2rem;
     text-align: center;
     
