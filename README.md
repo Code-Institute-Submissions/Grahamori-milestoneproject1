@@ -161,6 +161,12 @@ Will be using standard CSS with separate stylesheet for the main content of this
 10. Edited the certificate images and titles until it was all changed from projects to certificates and correct.
 11. Tested the page layout and all buttons and links worked correctly.
 12. Small amount of CSS for adjustment.
+ 
+#### Projects Content Image:
+  ![Projects Content Image](assets/img/content-projects.PNG)
+ 
+#### Certificates Content Image:
+  ![Certificates Content Image](assets/img/content-certs.PNG)
 
 
 #### Contact Page:
