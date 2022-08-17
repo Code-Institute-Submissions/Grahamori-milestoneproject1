@@ -133,6 +133,11 @@ The CV is my real image of my CV.pdf.
 21. Tested my main index.html page and checked that I was happy with the way it all looked.
 22. Made some minor padding adjustments to the overall look of the index.html page.
 
+#### Header:
+  ![Header Image](assets/img/header.PNG)
+ 
+#### Footer:
+  ![Footer Image](assets/img/footer.PNG)
 
 #### Project Page:
 
