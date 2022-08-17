@@ -161,4 +161,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
 
 #### Additional After Steps:
  1. Tested the responsiveness of website and added some Media CSS onto separate stylesheet for main content section of project page.
- 2. 
+ 
+ 
+ ## Testing the Website
+ 
+ ###Lighthouse Report:
+ 
+ ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
