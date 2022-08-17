@@ -199,7 +199,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
     Fix: Used www.freeconvert.com to convert my image to webp format. Then added Image to folder in GitHub and edited html for that image on index page.
     
  3. Issue: Performance - Image elements do not have explicit width and height(About Me Image).
-    Fix: 
+    Fix: Added auto width to inline style of image as height was already stated.
  
  ### W3C Validator Report:
  
