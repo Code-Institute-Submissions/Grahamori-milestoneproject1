@@ -190,6 +190,17 @@ Will be using standard CSS with separate stylesheet for the main content of this
  #### My First Lighthouse Report:
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
  
+ #### Lighthouse Report Fixes:
+ 
+ 1. Issue: SEO - Document does not have a meta description.
+    Fix: Added meta description (plus author and keywords for good measure) to all head elements for each page.
+    
+ 2. Issue: Performance - Serve Images in next gen formats.
+    Fix: Used www.freeconvert.com to convert my image to webp format. Then added Image to folder in GitHub and edited html for that image on index page.
+    
+ 3. Issue: Performance - Image elements do not have explicit width and height(About Me Image).
+    Fix: 
+ 
  ### W3C Validator Report:
  
  #### My First W3C Report:
