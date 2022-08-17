@@ -180,3 +180,6 @@ Will be using standard CSS with separate stylesheet for the main content of this
  1. Removed 'Button' element tags from 'a' element.
  2. Added Class attributes from 'button' onto the existing 'a' class.
  3. Ran W3C validator again.
+ 
+ #### W3C Final Report:
+  ![Final W3C Report](assets/img/w3-report2.PNG)
