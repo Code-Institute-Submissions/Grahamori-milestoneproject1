@@ -2,6 +2,8 @@
 
 ## Portfolio / Resume Project
 
+![Website Preview](assets/img/sitepreview.PNG)
+
 ### 🎯 Strategy: 
 
 I have decided that I will build a Resume / Portfolio website. The reason I have decided to do this project from the list of Project examples supplied by the course, is that I have made 3 other portfolio websites in the recent months before starting this course, but they have always been other peoples designs that have been copied through follow along videos on Youtube. I have always wanted to try and make one of my own design but never had the courage to start. 
