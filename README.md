@@ -165,6 +165,6 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  ## Testing the Website
  
- ###Lighthouse Report:
+ ### Lighthouse Report:
  
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
