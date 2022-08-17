@@ -167,8 +167,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  ### Lighthouse Report:
  
+ #### My First Lighthouse Report:
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
  
  ### W3C Validator Report:
  
+ #### My First W3C Report:
   ![Initial W3C Validator Report](assets/img/w3-report1.PNG)
