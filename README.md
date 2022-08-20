@@ -203,6 +203,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
     
  3. Issue: Performance - Image elements do not have explicit width and height(About Me Image).
     Fix: Added auto width to inline style of image as height was already stated.
+    ![LightHouse Report Meta](assets/img/lighthouse-diagnostic1.PNG)
  
  ### W3C Validator Report:
  
