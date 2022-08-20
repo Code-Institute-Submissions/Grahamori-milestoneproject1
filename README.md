@@ -101,7 +101,7 @@ Everything else would remain the same.
 ![Contact Mobile View](assets/img/contact-mobile.PNG)
 
 
-## Adding the Content
+## 🎯 Adding the Content
 
 ### Steps in Order that I took from start to finish in order to complete my project website:
 
@@ -183,9 +183,9 @@ Will be using standard CSS with separate stylesheet for the main content of this
  1. Tested the responsiveness of website and added some Media CSS onto separate stylesheet for main content section of project page.
  
  
- ## Testing the Website
+ ## 🎯 Testing the Website
  
- ### Lighthouse Report:
+ ### 🎯 Lighthouse Report:
  
  #### My First Lighthouse Report:
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
@@ -205,7 +205,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
     Fix: Added auto width to inline style of image as height was already stated.
     ![LightHouse Report Meta](assets/img/lighthouse-diagnostic1.PNG)
  
- ### W3C Validator Report:
+ ### 🎯 W3C Validator Report:
  
  #### My First W3C Report:
   ![Initial W3C Validator Report](assets/img/w3-report1.PNG)
@@ -219,7 +219,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  #### W3C Final Report:
   ![Final W3C Report](assets/img/w3-report2.PNG)
  
- #### W3C Jigsaw CSS Report:
+ ### 🎯 W3C Jigsaw CSS Report:
  
  #### W3C Jigsaw Report Info
  
