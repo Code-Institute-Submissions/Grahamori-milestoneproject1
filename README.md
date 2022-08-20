@@ -304,3 +304,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
 ### 🎯 Potential Future Improvements
 
 1.
+ 
+### 🎯 Credits and Thanks
+ 
+ 1. https://getbootstrap.com/docs for main CSS structure of page.
+ 2. https://fontawesome.com/icons for all icons used on webpage.
+ 3. https://www.w3schools.com/ for not only their abundance of helpful information but also for providing the CSS and HTML testing tools(Validator/Jigsaw).
+ 4. Google Chrome Lighthouse extension.
