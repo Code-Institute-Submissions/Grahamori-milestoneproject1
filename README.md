@@ -301,4 +301,6 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  All pictures are my own and were supplied to me from my real portfolio folders, including my real CV.pdf file.
  
- 
+### 🎯 Potential Future Improvements
+
+1.
