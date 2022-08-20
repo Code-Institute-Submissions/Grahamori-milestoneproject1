@@ -193,20 +193,28 @@ Will be using standard CSS with separate stylesheet for the main content of this
  #### Lighthouse Report Fixes (🖼️ Images Below Each Issue):
  
  1. Issue: SEO - Document does not have a meta description.
+ 
     Fix: Added meta description (plus author and keywords for good measure) to all head elements for each page.
+ 
     ![LightHouse Report Meta](assets/img/lighthouse-diagnostic3.PNG)
 
     
  2. Issue: Performance - Serve Images in next gen formats.
+ 
     Fix: Used www.freeconvert.com to convert my image to webp format. Then added Image to folder in GitHub and edited html for that image on index page.
+ 
     ![LightHouse Report Next Gen Formats](assets/img/lighthouse-diagnostic2.PNG)
     
  3. Issue: Performance - Image elements do not have explicit width and height.
+ 
     Fix: Added auto width to inline style of image as height was already stated.
+ 
     ![LightHouse Report Width/Height](assets/img/lighthouse-diagnostic1.PNG)
     
  4. Issue: Accessibility - Background and foreground colors have insufficient contrast ratio.
+ 
     Fix: Changed Bootstrap color from text-light to text-white for each element, then update all other html pages with same.
+ 
     ![LightHouse Report Contrast Ratio](assets/img/lighthouse-diagnostic4.PNG)
  
  ### 🎯 W3C Validator Report:
