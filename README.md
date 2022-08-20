@@ -214,3 +214,11 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  #### W3C Final Report:
   ![Final W3C Report](assets/img/w3-report2.PNG)
+ 
+ #### W3C Jigsaw CSS Report:
+ 
+ #### W3C Jigsaw Report Info
+ 
+ As You can see Below, there are only errors directly related to Bootstrap itself and no errors were present linking directly to my own code.
+ 
+  ![W3C Jigsaw Report](assets/img/w3-jigsaw.PNG)
