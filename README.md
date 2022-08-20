@@ -56,7 +56,10 @@ Decisions I have made for colors are as follows:
 2. All button text will be text-white.
 3. All buttons will have a bg-primary (blue) background.
 4. Header, Footer and Navbar background color will be bg-secondary (grey).
-5. Header, Footer and Navbar text will be text-white, was text-light before changes/fixes.
+5. Header, Footer(icons) and Navbar(including icons) text will be text-white, was text-light before changes/fixes.
+6. Logo will be half default text color and half text-primary (blue).
+7. Logo will have a bg-white background.
+8. Main heading/section titles will be either default or text-primary (blue).
 
 
 ### 🎯 Wireframe of proposed website.
