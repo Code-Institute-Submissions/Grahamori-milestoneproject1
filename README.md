@@ -297,7 +297,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
   ![W3C Jigsaw Report](assets/img/w3-jigsaw.PNG)
  
- ### Bugs
+ ### 🎯 Bugs
  
  No additional bugs were found other than testing fixes as mentioned in the 'Testing the Website' section above.
  
