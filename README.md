@@ -303,7 +303,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
 ### 🎯 Potential Future Improvements
 
-1.
+1. Color and font changes as I was using default bootstrap values.
+2. Add JavaScript for a Hamburger menu when used on mobile devices.
+3. Add more Projects and Certifications as career progression changes.
+4. Add a backend source for improved contact form sending options.
  
 ### 🎯 Credits and Thanks
  
