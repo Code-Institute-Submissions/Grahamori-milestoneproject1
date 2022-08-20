@@ -297,6 +297,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
   ![W3C Jigsaw Report](assets/img/w3-jigsaw.PNG)
  
+ ### Bugs
+ 
+ No additional bugs were found other than testing fixes as mentioned in the 'Testing the Website' section above.
+ 
  ### Media
  
  All pictures are my own and were supplied to me from my real portfolio folders, including my real CV.pdf file.
