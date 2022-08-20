@@ -229,6 +229,14 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  ![Final Lighthouse Report](assets/img/lighthouse-report2.PNG)
  
+ #### Lighthouse Report Review:
+ 
+ As you can see from my final report there has not been much improvement within the Performance section, This is mainly due to two things.
+  1. First Contentful Paint - This has a major impact and after a lot of research I have been unable to find a solution at this point, so have no choice but to leave  this until I'm further along in my studies and understanding of web development.
+  2. Eliminate Render Blocking Resources(🖼️ Image below) - As I can tell, this is caused by both script links for FontAwesome and Bootstrap CSS. As I need both of these links to enable my Website to stay the way in which I have designed it, then I can not see any way to remove these links.
+ 
+ ![LightHouse Render Blocking Resources](assets/img/lighthouse-diagnostic5.PNG)
+ 
  ### 🎯 W3C Validator Report:
  
  #### 🖼️ My First W3C Report:
