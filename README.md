@@ -190,7 +190,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  #### My First Lighthouse Report:
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
  
- #### Lighthouse Report Fixes:
+ #### Lighthouse Report Fixes (Images Below Each Issue):
  
  1. Issue: SEO - Document does not have a meta description.
     Fix: Added meta description (plus author and keywords for good measure) to all head elements for each page.
