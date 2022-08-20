@@ -179,7 +179,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
   ![Contact Form Image](assets/img/content-form.PNG)
 
 
-#### 🖼️ Additional After Steps:
+#### Additional After Steps:
  1. Tested the responsiveness of website and added some Media CSS onto separate stylesheet for main content section of project page.
  
  
@@ -216,7 +216,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  2. Added Class attributes from 'button' onto the existing 'a' class.
  3. Ran W3C validator again.
  
- #### 🖼️🖼 W3C Final Report:
+ #### 🖼️ W3C Final Report:
   ![Final W3C Report](assets/img/w3-report2.PNG)
  
  ### 🎯 W3C Jigsaw CSS Report:
