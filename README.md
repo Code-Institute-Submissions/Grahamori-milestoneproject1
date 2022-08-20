@@ -134,15 +134,19 @@ The CV is my real image of my CV.pdf.
 22. Made some minor padding adjustments to the overall look of the index.html page.
 
 #### 🖼️ Header Image:
+ 
   ![Header Image](assets/img/header.PNG)
  
 #### 🖼️ Footer Image:
+ 
   ![Footer Image](assets/img/footer.PNG)
  
 #### 🖼️ About Me Content Image:
+ 
   ![About Me Content Image](assets/img/content-about.PNG)
  
 #### 🖼️ CV Content Image:
+ 
   ![CV Content image](assets/img/content-cv.PNG)
 
 #### Project Page:
@@ -163,9 +167,11 @@ Will be using standard CSS with separate stylesheet for the main content of this
 12. Small amount of CSS for adjustment.
  
 #### 🖼️ Projects Content Image:
+ 
   ![Projects Content Image](assets/img/content-projects.PNG)
  
 #### 🖼️ Certificates Content Image:
+ 
   ![Certificates Content Image](assets/img/content-certs.PNG)
 
 
@@ -176,6 +182,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
 3. Changed only a small amount of Bootstrap CSS. The bootstrap CSS already added was fully responsive so didn’t need to edit/add much. 
  
 #### 🖼️ Contact Form Image:
+ 
   ![Contact Form Image](assets/img/content-form.PNG)
 
 
@@ -188,6 +195,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  ### 🎯 Lighthouse Report:
  
  #### 🖼️ My First Lighthouse Report:
+ 
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
  
  #### Lighthouse Report Fixes (🖼️ Images Below Each Issue):
@@ -220,6 +228,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  ### 🎯 W3C Validator Report:
  
  #### 🖼️ My First W3C Report:
+ 
   ![Initial W3C Validator Report](assets/img/w3-report1.PNG)
  
  #### W3C Fixes:
@@ -229,6 +238,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  3. Ran W3C validator again.
  
  #### 🖼️ W3C Final Report:
+ 
   ![Final W3C Report](assets/img/w3-report2.PNG)
  
  ### 🎯 W3C Jigsaw CSS Report:
