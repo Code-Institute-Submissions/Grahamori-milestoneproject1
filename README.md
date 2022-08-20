@@ -206,7 +206,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
     ![LightHouse Report Width/Height](assets/img/lighthouse-diagnostic1.PNG)
     
  4. Issue: Accessibility - Background and foreground colors have insufficient contrast ratio.
-    Fix: Changed Bootstrap color from bg-light to bg-white for each element.
+    Fix: Changed Bootstrap color from text-light to text-white for each element, then update all other html pages with same.
     ![LightHouse Report Contrast Ratio](assets/img/lighthouse-diagnostic4.PNG)
  
  ### 🎯 W3C Validator Report:
