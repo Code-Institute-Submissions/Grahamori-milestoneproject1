@@ -296,3 +296,9 @@ Will be using standard CSS with separate stylesheet for the main content of this
  As You can see Below, there are only errors directly related to Bootstrap itself and no errors were present linking directly to my own code.
  
   ![W3C Jigsaw Report](assets/img/w3-jigsaw.PNG)
+ 
+ ### Media
+ 
+ All pictures are my own and were supplied to my from my real portfolio folders, including my real CV.pdf file.
+ 
+ 
