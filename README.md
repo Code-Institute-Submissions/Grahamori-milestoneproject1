@@ -149,11 +149,11 @@ Will be using Bootstrap CSS for the Index page, Contact page and header/footer o
 
 1. Created my basic index.html, project.html and contact.html files.
 2. Started to layout the basic structure of my index.html page including header, footer, main content section, title and other meta tags including Bootstrap.
-3. Created my main content structure for my index.html page with <div>’s.
+3. Created my main content structure for my index.html page with div elements.
 4. Using the basic layout structure for the index.html, I then copied this and pasted onto both the project.html and contact.html in order to give all pages the same basic structure.
 5. Then I practised add, commit and push to push content made so far onto Github, this is where I encountered my first issue, this was because I had taken a small break and GitPod had timed out. When I refreshed GidPod, the git push command was not working. Took a while to figure out what I had to do, but I did so many things I’m not sure which of these fixed the issue. My best guess is that I re-typed the command ‘git init’ into the terminal and needed to do this each time the session times out. This seemed to work for future time outs.
 6. Started to create my header/navbar layout and this went well.
-7. Added my links to the navbar page links and then encountered my second error. The links failed to work, took me about 10mins to realised I had put the <a> tags within the <i> tags instead of vice versa, this immediately fixed the issue.
+7. Added my links to the navbar page links and then encountered my second error. The links failed to work, took me about 10mins to realised I had put the 'a' tags within the 'i' tags instead of vice versa, this immediately fixed the issue.
 8. Added FontAwesome meta tags and then added some icons to my navbar menu.
 9. Added my name as a logo of header, using a span on surname with intention of making my surname a different color to first name.
 10. Then I spent some time researching and adding Bootstrap CSS to my header, this took a while due to having to do a lot of research into bootstrap commands, as well as getting the positioning correct which took a few tries. The research was from https://getbootstrap.com/docs .
