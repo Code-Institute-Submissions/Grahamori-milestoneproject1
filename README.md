@@ -48,7 +48,7 @@ So far I’m thinking along the lines of light blues, greens and greys, with sim
 
 #### Update to Colors and Fonts:
 
-As for both colors and fonts I have decided to stick with using Boostrap default built in colors and fonts, this is because I dont believe I have yet achieved the knowledge to edit the bootstrap CSS default scheme using SASS. 
+As for both colors and fonts I have decided to stick with using Boostrap default built in colors and fonts, this is because I dont believe I have yet achieved the knowledge to edit the bootstrap CSS default scheme using SASS. Some project page colors may differ due to main content using separate CSS rules (non-bootstrap).
 
 Decisions I have made for colors are as follows:
 
@@ -60,6 +60,13 @@ Decisions I have made for colors are as follows:
 6. Logo will be half default text color and half text-primary (blue).
 7. Logo will have a bg-white background.
 8. Main heading/section titles will be either default or text-primary (blue).
+
+Project page(including differences):
+
+1. Section headings will be lightgray.
+2. Project and Certificate titles will be darkgray.
+3. Buttons will have blue background with white text, and a black border.
+4. Project and Certificate individual articles will have a lightgray background with a thin black border.
 
 
 ### 🎯 Wireframe of proposed website.
