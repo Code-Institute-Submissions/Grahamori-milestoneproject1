@@ -311,6 +311,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
 2. Add JavaScript for a Hamburger menu when used on mobile devices.
 3. Add more Projects and Certifications as career progression changes.
 4. Add a backend source for improved contact form sending options.
+
+### 🎯 Deployment
+
+The website will be deployed through Netlify as mentioned in the 'Skeleton' section above.  
  
 ### 🎯 Credits and Thanks
  
