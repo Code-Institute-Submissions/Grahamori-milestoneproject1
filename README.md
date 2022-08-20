@@ -299,6 +299,6 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  ### Media
  
- All pictures are my own and were supplied to my from my real portfolio folders, including my real CV.pdf file.
+ All pictures are my own and were supplied to me from my real portfolio folders, including my real CV.pdf file.
  
  
