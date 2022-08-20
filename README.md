@@ -224,6 +224,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
     Fix: Changed Bootstrap color from text-light to text-white for each element, then update all other html pages with same.
  
     ![LightHouse Report Contrast Ratio](assets/img/lighthouse-diagnostic4.PNG)
+    
+ #### 🖼️ My Final Lighthouse Report:
+ 
+ ![Final Lighthouse Report](assets/img/lighthouse-report2.PNG)
  
  ### 🎯 W3C Validator Report:
  
