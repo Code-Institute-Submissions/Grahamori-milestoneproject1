@@ -34,7 +34,7 @@ The Contact page will also be kept very simple and will have a basic easy to use
  
 
 
-### 🎯 Skeleton: 
+### 🎯 Skeleton(includes proposed deployment information): 
 
 This website will be written using GitPod as per our course guidance so far. As suggested in our project ideas and overview, I have decided not to use GitHub pages to display my finished project. Instead I will be using Netlify which I have become very familiar with over the past few months whilst teaching myself to code. Netlify is easy to use and has a ton of great features including connecting to any GitHub repositary, Back-end email service, easy to drag and drop files/folders and free hosting.  
 
@@ -45,6 +45,18 @@ I will be using an easy to use wireframe design tool called Balsamiq to design m
 
 As for the finished look of the project I am not fully decided on which fonts to use yet or which colors. I’m gonna use a long known procedure of try and test before I decide which I’m going to use. I do however know that I do not want to use any bright and bold colors, I want to stay within the borders of my already decided simple design, and keep the layout, colors and styles simple yet aesthetically pleasing to the eye. 
 So far I’m thinking along the lines of light blues, greens and greys, with simple and bold text fonts.
+
+#### Update to Colors and Fonts:
+
+As for both colors and fonts I have decided to stick with using Boostrap default built in colors and fonts, this is because I dont believe I have yet achieved the knowledge to edit the bootstrap CSS default scheme using SASS. 
+
+Decisions I have made for colors are as follows:
+
+1. All default text will be bootstrap default color (black).
+2. All button text will be text-white.
+3. All buttons will have a bg-primary (blue) background.
+4. Header, Footer and Navbar background color will be bg-secondary (grey).
+5. Header, Footer and Navbar text will be text-white, was text-light before changes/fixes.
 
 
 ### 🎯 Wireframe of proposed website.
