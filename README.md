@@ -10,6 +10,10 @@ Due to both the course layout and my ADHD I started my project after reading the
 
 There are two Github repositaries associated with my project so Commits are spread between both. The main website was created on the alternative repositary (https://github.com/Grahamori/Milestone-Projects) to the one you are currently on whilst reading this. The main reason for this is due to my main repositary being intended to hold all four milestone projects which I later realised would not work when trying to host each individual project directly through Netlify, as Netlify would need the main index.html to be located within the main branch of the repositary in order to locate each project. Once this realisation was apparant I decided that I will in future make an individual repositary for each project. I will put this down to learning from my mistakes. 
 
+Please Note: 
+
+I am fully aware that I am severly lacking in the amount of commits, this has been mentioned and I was made aware after a discussion with my mentor. My mentor has offered to help guide me with this regard before starting my next milestone project. I have however tried to increase my commits since this was brought to my intention. (Please Note: This is also something that can be difficult for someone with ADHD, as we tend to get carried away completing tasks).
+
 ## 🖼️ Portfolio / Resume Project
 
 ![Website Preview](assets/img/sitepreview.PNG)
