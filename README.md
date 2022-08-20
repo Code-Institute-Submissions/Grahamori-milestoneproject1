@@ -52,7 +52,7 @@ The Contact page will also be kept very simple and will have a basic easy to use
 
 ### 🎯 Skeleton(includes proposed deployment information): 
 
-This website will be written using GitPod as per our course guidance so far. As suggested in our project ideas and overview, I have decided not to use GitHub pages to display my finished project. Instead I will be using Netlify which I have become very familiar with over the past few months whilst teaching myself to code. Netlify is easy to use and has a ton of great features including connecting to any GitHub repositary, Back-end email service, easy to drag and drop files/folders and free hosting.  
+This website will be written using GitPod as per our course guidance so far. As suggested in our project ideas and overview, I have decided not to use GitHub pages to display my finished project. Instead I will be using Netlify which I have become very familiar with over the past few months whilst teaching myself to code. Netlify is easy to use and has a tonne of great features including connecting to any GitHub repositary, Back-end email service, easy to drag and drop files/folders and free hosting.  
 
 I will be using an easy to use wireframe design tool called Balsamiq to design my website and will be linking images of these designs below.
 
