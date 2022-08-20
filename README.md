@@ -8,7 +8,7 @@ Due to both the course layout and my ADHD I started my project after reading the
 
 #### GitHub / Commits
 
-There are two Github repositaries associated with my project so Commits
+There are two Github repositaries associated with my project so Commits are spread between both. The main website was created on the alternative repositary (https://github.com/Grahamori/Milestone-Projects) to the one you are currently on whilst reading this. The main reason for this is due to my main repositary being intended to hold all four milestone projects which I later realised would not work when trying to host each individual project directly through Netlify, as Netlify would need the main index.html to be located within the main branch of the repositary in order to locate each project. Once this realisation was apparant I decided that I will in future make an individual repositary for each project. I will put this down to learning from my mistakes. 
 
 ## 🖼️ Portfolio / Resume Project
 
