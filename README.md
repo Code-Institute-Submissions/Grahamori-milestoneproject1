@@ -194,6 +194,8 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  1. Issue: SEO - Document does not have a meta description.
     Fix: Added meta description (plus author and keywords for good measure) to all head elements for each page.
+    ![LightHouse Report Meta](assets/img/lighthouse-diagnostic3.PNG)
+
     
  2. Issue: Performance - Serve Images in next gen formats.
     Fix: Used www.freeconvert.com to convert my image to webp format. Then added Image to folder in GitHub and edited html for that image on index page.
