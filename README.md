@@ -1,6 +1,6 @@
 # Milestone Project 1
 
-## Portfolio / Resume Project
+## 🖼️ Portfolio / Resume Project
 
 ![Website Preview](assets/img/sitepreview.PNG)
 
@@ -57,7 +57,7 @@ Below are those images. I have not incorporated any Tablet views into my wirefra
 
 ### 🎯 For the main page or index.html page:
 
-#### Desktop View
+#### 🖼️ Desktop View
 
 ![Index Page Desktop View](assets/img/index-desktop.PNG)
 
@@ -66,37 +66,37 @@ Below are those images. I have not incorporated any Tablet views into my wirefra
 The changes between tablet and desktop view would in my opinion be very small, the only real changes would be the size of the side margins on the outside edge of the main content sections.
 Everything else would remain the same.
 
-#### Mobile View
+#### 🖼️ Mobile View
 
 ![Index Mobile View](assets/img/index-mobile.PNG)
 
 
 ### 🎯 For the Projects page:
 
-#### Desktop View
+#### 🖼️ Desktop View
 
 ![Project Desktop View](assets/img/project-desktop.PNG)
 
-#### Tablet View
+#### 🖼️ Tablet View
 
 ![Project Tablet Text](assets/img/project-tablet.PNG)
 
-#### Mobile View
+#### 🖼️ Mobile View
 
 ![Project Mobile View](assets/img/project-mobile.PNG)
 
 
 ### 🎯 For the Contact page:
 
-#### Desktop View
+#### 🖼️ Desktop View
 
 ![Contact Desktop View](assets/img/contact-desktop.PNG)
 
-#### Tablet View
+#### 🖼️ Tablet View
 
 ![Contact Tablet View](assets/img/contact-tablet.PNG)
 
-#### Mobile View
+#### 🖼️ Mobile View
 
 ![Contact Mobile View](assets/img/contact-mobile.PNG)
 
@@ -133,16 +133,16 @@ The CV is my real image of my CV.pdf.
 21. Tested my main index.html page and checked that I was happy with the way it all looked.
 22. Made some minor padding adjustments to the overall look of the index.html page.
 
-#### Header Image:
+#### 🖼️ Header Image:
   ![Header Image](assets/img/header.PNG)
  
-#### Footer Image:
+#### 🖼️ Footer Image:
   ![Footer Image](assets/img/footer.PNG)
  
-#### About Me Content Image:
+#### 🖼️ About Me Content Image:
   ![About Me Content Image](assets/img/content-about.PNG)
  
-#### CV Content Image:
+#### 🖼️ CV Content Image:
   ![CV Content image](assets/img/content-cv.PNG)
 
 #### Project Page:
@@ -162,10 +162,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
 11. Tested the page layout and all buttons and links worked correctly.
 12. Small amount of CSS for adjustment.
  
-#### Projects Content Image:
+#### 🖼️ Projects Content Image:
   ![Projects Content Image](assets/img/content-projects.PNG)
  
-#### Certificates Content Image:
+#### 🖼️ Certificates Content Image:
   ![Certificates Content Image](assets/img/content-certs.PNG)
 
 
@@ -175,11 +175,11 @@ Will be using standard CSS with separate stylesheet for the main content of this
 2. Edited code to my own liking for the form.
 3. Changed only a small amount of Bootstrap CSS. The bootstrap CSS already added was fully responsive so didn’t need to edit/add much. 
  
-#### Contact Form Image:
+#### 🖼️ Contact Form Image:
   ![Contact Form Image](assets/img/content-form.PNG)
 
 
-#### Additional After Steps:
+#### 🖼️ Additional After Steps:
  1. Tested the responsiveness of website and added some Media CSS onto separate stylesheet for main content section of project page.
  
  
@@ -187,10 +187,10 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  ### 🎯 Lighthouse Report:
  
- #### My First Lighthouse Report:
+ #### 🖼️ My First Lighthouse Report:
  ![Initial Lighthouse Report](assets/img/lighthousereport1.PNG)
  
- #### Lighthouse Report Fixes (Images Below Each Issue):
+ #### Lighthouse Report Fixes (🖼️ Images Below Each Issue):
  
  1. Issue: SEO - Document does not have a meta description.
     Fix: Added meta description (plus author and keywords for good measure) to all head elements for each page.
@@ -207,7 +207,7 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  ### 🎯 W3C Validator Report:
  
- #### My First W3C Report:
+ #### 🖼️ My First W3C Report:
   ![Initial W3C Validator Report](assets/img/w3-report1.PNG)
  
  #### W3C Fixes:
@@ -216,12 +216,12 @@ Will be using standard CSS with separate stylesheet for the main content of this
  2. Added Class attributes from 'button' onto the existing 'a' class.
  3. Ran W3C validator again.
  
- #### W3C Final Report:
+ #### 🖼️🖼 W3C Final Report:
   ![Final W3C Report](assets/img/w3-report2.PNG)
  
  ### 🎯 W3C Jigsaw CSS Report:
  
- #### W3C Jigsaw Report Info
+ ####  W3C Jigsaw Report Info(🖼️ Image Below):
  
  As You can see Below, there are only errors directly related to Bootstrap itself and no errors were present linking directly to my own code.
  
