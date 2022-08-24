@@ -22,7 +22,14 @@ I am fully aware that I am severly lacking in the amount of commits, this has be
 
 ## 🖼️ Am I Responsive Snapshot
 
+### Index Page
 ![Responsive Website Preview](assets/img/amiresponsive.PNG)
+
+### Project Page
+![Responsive Website Preview](assets/img/amiresponsive2.PNG)
+
+### Contact Page
+![Responsive Website Preview](assets/img/amiresponsive3.PNG)
 
 #### Website URL : https://ui.dev/amiresponsive?url=https://grahammilestoneproject1.netlify.app/
 
