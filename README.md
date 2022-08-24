@@ -4,7 +4,7 @@
 
 #### Deployment Issues While trying to submit Project:
 
-Had some deployment issues while trying to submit a Netlify link on project submission form, so alternatively I have set up GitHub pages on my Project as well as also still being live via Netlify as originally intended. Have discussed this issue with jim_community_ci via slack and he is aware of the issue and passed it along.
+Had some deployment issues while trying to submit a Netlify link on project submission form, so alternatively I have set up GitHub pages on my Project as well as also still being live via Netlify as originally intended. Have discussed this issue with jim_community_ci via Slack and he is aware of the issue and passed it along.
 
 #### Netlify website link: <b>https://grahammilestoneproject1.netlify.app/</b>
 
