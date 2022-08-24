@@ -316,7 +316,15 @@ Will be using standard CSS with separate stylesheet for the main content of this
  
  1. Page Links : Tested each page link by checking that each link works from each page and also tested these on desktop, laptop and mobile devices.
  2. Eternal Links : Tested all external links for each page to make sure that their end destination was correct and also did this for desktop, laptop and mobile devices.
- 3. Form : As for the form on the contact page. I have tested this by adding Netlify form
+ 3. Form : As for the form on the contact page. I have tested this by adding Netlify forms as a backend, this included adding <b>method="POST" data-netlify="true"<b> to my form tag element. When the form is sent you receive a generic form submission alert provided by Netlify as shown in Image 1 below. The form does get submitted and received but does not show any content in the email(as shown in Image 2 below), I have looked into this and its to do with Netlify forms not recognising the input fields of my form.
+ 
+ #### 🖼️ Image 1:
+ 
+  ![Form test image](assets/img/formtest1.PNG)
+ 
+ #### 🖼️ Image 2:
+ 
+  ![Form test image](assets/img/formtest2.PNG)
  
  ### 🎯 Bugs
  
