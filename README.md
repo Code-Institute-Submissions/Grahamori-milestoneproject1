@@ -2,6 +2,12 @@
 
 ## 🎤 Introduction and Explanation
 
+#### Deployment Issues While trying to submit Project:
+
+Had some deployment issues while trying to submit a Netlify link on project submission form, so alternatively I have set up GitHub pages on my Project as well as also still being live via Netlify as originally intended.
+
+#### Netlify website link: <b>https://grahammilestoneproject1.netlify.app/</b>
+
 #### Course Layout:
 
 Due to both the course layout and my ADHD I started my project after reading the Assessment Criteria section, the README information videos came after this and due to my ADHD I got on with the project without watching the videos or informationals that came after. Due to my nuero-diverse qualities I prefer to complete tasks in order. As a result of the above I did not start to write my README until after my initial completing of my website. It was only after this that I started watching the README informational videos that I suddenly realised my mistake. Hopefully to whoever reads this maybe you can pass this along to whoever created or edits the course content to maybe take this into consideration to help other future neuro-diverse individuals like myself. Ideas for this are possibly either changing the layout in which information is presented or simply making a bold statement in the first section stating something along the lines of 'Please study all parts and videos of this section before starting your project'.
