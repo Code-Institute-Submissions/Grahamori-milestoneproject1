@@ -337,3 +337,4 @@ The website will be deployed through Netlify as mentioned in the 'Skeleton' sect
  2. https://fontawesome.com/icons for all icons used on webpage.
  3. https://www.w3schools.com/ for not only their abundance of helpful information but also for providing the CSS and HTML testing tools(Validator/Jigsaw).
  4. Google Chrome Lighthouse extension.
+ 5. https://ui.dev/amiresponsive for free website to view responsive designs.
