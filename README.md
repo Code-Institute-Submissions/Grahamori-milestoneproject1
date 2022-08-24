@@ -311,6 +311,12 @@ Will be using standard CSS with separate stylesheet for the main content of this
  As You can see Below, there are only errors directly related to Bootstrap itself and no errors were present linking directly to my own code.
  
   ![W3C Jigsaw Report](assets/img/w3-jigsaw.PNG)
+  
+ ### 🎯 Additional Testing:
+ 
+ 1. Page Links : Tested each page link by checking that each link works from each page and also tested these on desktop, laptop and mobile devices.
+ 2. Eternal Links : Tested all external links for each page to make sure that their end destination was correct and also did this for desktop, laptop and mobile devices.
+ 3. Form : As for the form on the contact page. I have tested this by adding Netlify form
  
  ### 🎯 Bugs
  
