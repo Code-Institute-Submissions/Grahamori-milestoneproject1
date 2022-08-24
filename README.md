@@ -343,7 +343,17 @@ Will be using standard CSS with separate stylesheet for the main content of this
 
 ### 🎯 Deployment
 
-The website will be deployed through Netlify as mentioned in the 'Skeleton' section above.  
+The website will be deployed through Netlify as mentioned in the 'Skeleton' section above.
+The steps below state the basics for how to deploy the website on Netlify, all steps are provided by the following website which I have followed to deploy this site. <b>https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/</b>
+
+1. Link Github to Netlify.
+2. Authorize Github.
+3. Select Repositary of website.
+4. Configure Netlify settings for your site.
+5. Wait for Netlify to compile and build your site.
+6. Site goes live.
+
+Any additional edits and or pushes to your Github account will automatically be recognised and updated by Netlify.
  
 ### 🎯 Credits and Thanks
  
