@@ -353,7 +353,7 @@ The steps below state the basics for how to deploy the website on Netlify, all s
 5. Wait for Netlify to compile and build your site.
 6. Site goes live.
 
-Any additional edits and or pushes to your Github account will automatically be recognised and updated by Netlify.
+Any additional edits and or pushes to your linked Github repositary will automatically be recognised and updated by Netlify.
  
 ### 🎯 Credits and Thanks
  
