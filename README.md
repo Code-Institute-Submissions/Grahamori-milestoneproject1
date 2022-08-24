@@ -20,6 +20,12 @@ I am fully aware that I am severly lacking in the amount of commits, this has be
 
 #### Website URL : https://grahammilestoneproject1.netlify.app
 
+## 🖼️ Am I Responsive Snapshot
+
+![Responsive Website Preview](assets/img/amiresponsive.PNG)
+
+#### Website URL : https://ui.dev/amiresponsive?url=https://grahammilestoneproject1.netlify.app/
+
 ### 🎯 Strategy: 
 
 I have decided that I will build a Resume / Portfolio website. The reason I have decided to do this project from the list of Project examples supplied by the course, is that I have made 3 other portfolio websites in the recent months before starting this course, but they have always been other peoples designs that have been copied through follow along videos on Youtube. I have always wanted to try and make one of my own design but never had the courage to start. 
